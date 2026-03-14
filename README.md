@@ -22,14 +22,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
 </p>
 
-## ▶️ How to Play
-
-- Open the game in your browser
-
-- Player X starts the game
-
-- Take turns placing marks on the grid
-
-- The game announces a win or draw
-
-- Click Reset to play again
